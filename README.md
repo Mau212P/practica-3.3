@@ -5,7 +5,7 @@ Integrantes:
 - Hania Gutiérrez Vargas (HaniaGV)
 - Mauricio Posadas Rogríguez (Mau212P)
 - Erick Eduardo Ramos Contreras (ErEdRacon003)
--
+
 # frontend
 
 ## Project setup
